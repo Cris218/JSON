@@ -5,84 +5,94 @@
     "recordsFiltered": 57,
     "data": [
       [
-        "Gloria",
-        "Little",
-        "Systems Administrator",
-        "New York",
-        "10th Apr 09",
-        "$237,500"
+        "Sprinklr adds AI to its customer experience platform lorem ipsum",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/1.jpg",
+        "Jan 23, 2019",
+        "POV",
+        "PDF",
+        "PMX",
+        "3 MB"
       ],
       [
-        "Haley",
-        "Kennedy",
-        "Senior Marketing Designer",
-        "London",
-        "18th Dec 12",
-        "$313,500"
+        "The State of Verification",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/2.jpg",
+        "Oct 5, 2018",
+        "POV",
+        "PowerPoint",
+        "Partnerships & Standards",
+        "867 KB"
       ],
       [
-        "Hermione",
-        "Butler",
-        "Regional Director",
-        "London",
-        "21st Mar 11",
-        "$356,250"
+        "Brand Safety Agency Summary - December 2018",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/3.jpg",
+        "Jan 23, 2019",
+        "Activation Guide",
+        "PDF",
+        "Central Activation",
+        "4.6 MB"
       ],
       [
-        "Herrod",
-        "Chandler",
-        "Sales Assistant",
-        "San Francisco",
-        "6th Aug 12",
-        "$137,500"
+        "The State of DSPs ",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/4.jpg",
+        "Sept 14, 2018",
+        "Case Study",
+        "PDF",
+        "Partnerships & Standards",
+        "9 MB"
       ],
       [
-        "Hope",
-        "Fuentes",
-        "Secretary",
-        "San Francisco",
-        "12th Feb 10",
-        "$109,850"
+        "Viewability Deepdive",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/5.jpg",
+        "Feb 5, 2019",
+        "POV",
+        "PowerPoint",
+        "PMX",
+        "4 MB"
       ],
       [
-        "Howard",
-        "Hatfield",
-        "Office Manager",
-        "San Francisco",
-        "16th Dec 08",
-        "$164,500"
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor lorem ipsum dolor asdf",
+        "http://localhost:3000/img/amobeeExportLogo.png",
+        "Jan 23, 2019",
+        "POV",
+        "PDF",
+        "PMX",
+        "3 MB"
       ],
       [
-        "Jackson",
-        "Bradshaw",
-        "Director",
-        "New York",
-        "26th Sep 08",
-        "$645,750"
+        "The State of Verification",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/2.jpg",
+        "Oct 5, 2018",
+        "POV",
+        "PowerPoint",
+        "Partnerships & Standards",
+        "867 KB"
       ],
       [
-        "Jena",
-        "Gaines",
-        "Office Manager",
-        "London",
-        "19th Dec 08",
-        "$90,560"
+        "Brand Safety Agency Summary - December 2018",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/3.jpg",
+        "Jan 23, 2019",
+        "Activation Guide",
+        "PDF",
+        "Central Activation",
+        "4.6 MB"
       ],
       [
-        "Jenette",
-        "Caldwell",
-        "Development Lead",
-        "New York",
-        "3rd Sep 11",
-        "$345,000"
+        "The State of DSPs ",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/4.jpg",
+        "Sept 14, 2018",
+        "Case Study",
+        "PDF",
+        "Partnerships & Standards",
+        "9 MB"
       ],
       [
-        "Jennifer",
-        "Chang",
-        "Regional Director",
-        "Singapore",
-        "14th Nov 10",
-        "$357,650"
+        "Viewability Deepdive",
+        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/5.jpg",
+        "Feb 5, 2019",
+        "POV",
+        "PowerPoint",
+        "PMX",
+        "4 MB"
       ]
     ]
   }
