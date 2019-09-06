@@ -1,5 +1,5 @@
 {
-  data:[{
+  "data":{
     "draw": 8,
     "recordsTotal": 57,
     "recordsFiltered": 57,
@@ -85,5 +85,5 @@
         "$357,650"
       ]
     ]
-  }] 
+  }
 }
