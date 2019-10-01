@@ -1,72 +1,70 @@
 {
-  "data":{
-    "draw":1,
-    "recordsTotal":9,
-    "recordsFiltered":9,
-    "data":[
-      {
-          "Title":"Test Case 1",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Testing Bucket Sync",
-          "DocumentType":"",
-          "FileExtension":"PDF",
-          "Owner":"",
-          "FileSize":"84.8KB"
-      },
-      {
-          "Title":"Test 2",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Test 34",
-          "DocumentType":"",
-          "FileExtension":"PDF",
-          "Owner":"",
-          "FileSize":"49.1MB"
-      },
-      {
-          "Title":"Testing Bucketing v3",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Testing Bucketing",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Testing Buckets by Date",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Testing Bucket v2",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      },
-      {
-          "Title":"Test 11",
-          "DocumentType":"",
-          "FileExtension":"",
-          "Owner":"",
-          "FileSize":""
-      }
-    ]
-  }
+  "draw":1,
+  "recordsTotal":9,
+  "recordsFiltered":9,
+  "data":[
+    {
+        "Title":"Test Case",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Testing Bucket Sync",
+        "DocumentType":"",
+        "FileExtension":"PDF",
+        "Owner":"",
+        "FileSize":"84.8KB"
+    },
+    {
+        "Title":"Test 2",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Test 34",
+        "DocumentType":"",
+        "FileExtension":"PDF",
+        "Owner":"",
+        "FileSize":"49.1MB"
+    },
+    {
+        "Title":"Testing Bucketing v3",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Testing Bucketing",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Testing Buckets by Date",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Testing Bucket v2",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    },
+    {
+        "Title":"Test 11",
+        "DocumentType":"",
+        "FileExtension":"",
+        "Owner":"",
+        "FileSize":""
+    }
+  ]
 }
