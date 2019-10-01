@@ -1,9 +1,9 @@
 {
   "data":{
-    "Draw":1,
-    "RecordsTotal":9,
-    "RecordsFiltered":9,
-    "Data":[
+    "draw":1,
+    "recordsTotal":9,
+    "recordsFiltered":9,
+    "data":[
       {
           "Title":"Test Case",
           "DocumentType":"",
