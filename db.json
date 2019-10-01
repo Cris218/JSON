@@ -1,99 +1,72 @@
 {
   "data":{
-    "draw": 8,
-    "recordsTotal": 57,
-    "recordsFiltered": 57,
-    "data": [
-      [
-        "Sprinklr adds AI to its customer experience platform lorem ipsum",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/1.jpg",
-        "Jan 23, 2019",
-        "POV",
-        "PDF",
-        "PMX",
-        "3 MB"
-      ],
-      [
-        "The State of Verification",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/2.jpg",
-        "Oct 5, 2018",
-        "POV",
-        "PowerPoint",
-        "Partnerships & Standards",
-        "867 KB"
-      ],
-      [
-        "Brand Safety Agency Summary - December 2018",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/3.jpg",
-        "Jan 23, 2019",
-        "Activation Guide",
-        "PDF",
-        "Central Activation",
-        "4.6 MB"
-      ],
-      [
-        "The State of DSPs ",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/4.jpg",
-        "Sept 14, 2018",
-        "Case Study",
-        "PDF",
-        "Partnerships & Standards",
-        "9 MB"
-      ],
-      [
-        "Viewability Deepdive",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/5.jpg",
-        "Feb 5, 2019",
-        "POV",
-        "PowerPoint",
-        "PMX",
-        "4 MB"
-      ],
-      [
-        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor lorem ipsum dolor asdf",
-        "http://localhost:3000/img/amobeeExportLogo.png",
-        "Jan 23, 2019",
-        "POV",
-        "PDF",
-        "PMX",
-        "3 MB"
-      ],
-      [
-        "The State of Verification",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/2.jpg",
-        "Oct 5, 2018",
-        "POV",
-        "PowerPoint",
-        "Partnerships & Standards",
-        "867 KB"
-      ],
-      [
-        "Brand Safety Agency Summary - December 2018",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/3.jpg",
-        "Jan 23, 2019",
-        "Activation Guide",
-        "PDF",
-        "Central Activation",
-        "4.6 MB"
-      ],
-      [
-        "The State of DSPs ",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/4.jpg",
-        "Sept 14, 2018",
-        "Case Study",
-        "PDF",
-        "Partnerships & Standards",
-        "9 MB"
-      ],
-      [
-        "Viewability Deepdive",
-        "http://localhost:3000/img/GlobalSearchExamples/mediaLibraryExamples/5.jpg",
-        "Feb 5, 2019",
-        "POV",
-        "PowerPoint",
-        "PMX",
-        "4 MB"
-      ]
+    "Draw":1,
+    "RecordsTotal":9,
+    "RecordsFiltered":9,
+    "Data":[
+      {
+          "Title":"Test Case",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Testing Bucket Sync",
+          "DocumentType":"",
+          "FileExtension":"PDF",
+          "Owner":"",
+          "FileSize":"84.8KB"
+      },
+      {
+          "Title":"Test 2",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Test 34",
+          "DocumentType":"",
+          "FileExtension":"PDF",
+          "Owner":"",
+          "FileSize":"49.1MB"
+      },
+      {
+          "Title":"Testing Bucketing v3",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Testing Bucketing",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Testing Buckets by Date",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Testing Bucket v2",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      },
+      {
+          "Title":"Test 11",
+          "DocumentType":"",
+          "FileExtension":"",
+          "Owner":"",
+          "FileSize":""
+      }
     ]
   }
 }
